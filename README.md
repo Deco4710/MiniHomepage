@@ -16,3 +16,7 @@
 
 - navigation.md 파일 추가
 - 로그인, 로그아웃 추가
+
+## 푸터
+
+- foorter.md 파일추가
