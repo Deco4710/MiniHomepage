@@ -24,3 +24,6 @@
 # search
 
 - 서치 개발
+# Sidebar
+
+- sidebar 수정
