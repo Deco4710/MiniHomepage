@@ -20,3 +20,7 @@
 ## 푸터
 
 - foorter.md 파일추가
+
+# Sidebar
+
+- sidebar 수정
